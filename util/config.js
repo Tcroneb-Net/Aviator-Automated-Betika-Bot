@@ -1,6 +1,6 @@
 const config = {
     NAVIGATION: {
-        BASE_URL: 'https://spribe.co/welcome',
+        BASE_URL: 'https://betting.co.zw/virtual/fast-games/aviator',
         TIMEOUT: 60000,
         RUN_DURATION: 24 * 60 * 60 * 1000 // 24 hours
     },
